@@ -7,3 +7,7 @@
 5. Color codes for the row elements are changed based on past, present and future times.
 6. Scheduling activity typed in input box is saved in local storage after clicking the 'Save' button.
 7. Retrieve the local storage information and assign the appropriate time schedule activity.
+
+Link to the Deployed application:
+
+https://monikakakuturu.github.io/WorkDaySchedule/
